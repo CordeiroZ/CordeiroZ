@@ -44,6 +44,4 @@
 
 ###
 
-<p align="center">Obrigado pela visita!</p>
 
-###
