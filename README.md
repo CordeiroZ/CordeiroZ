@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Sou o João Victor, desenvolvedor entusiasta por tecnologia. Atualmente curso Análise e Desenvolvimento de Sistemas e coloco em prática meus conhecimentos em projetos Full Stack, sempre buscando unir teoria, prática e propósito.<br><br>Curioso desde cedo, comecei a resolver problemas no computador por conta própria ainda criança, e desde então sigo buscando experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer tanto como profissional quanto como pessoa.</p>
+<p align="left">Sou o João Victor, desenvolvedor entusiasta por tecnologia. Atualmente curso Sistemas de Informação (SI)  e coloco em prática meus conhecimentos em projetos Full Stack, sempre buscando unir teoria, prática e propósito.<br><br>Curioso desde cedo, comecei a resolver problemas no computador por conta própria ainda criança, e desde então sigo buscando experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer tanto como profissional quanto como pessoa.</p>
 
 ###
 
