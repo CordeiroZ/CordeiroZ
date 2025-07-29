@@ -38,10 +38,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-77a0-51f7-a211-f907337b6638/raw?se=2025-04-08T14%3A45%3A42Z&sp=r&sv=2024-08-04&sr=b&scid=6d556f75-37e0-584d-b393-6cf351f469e9&skoid=365eb242-95ba-4335-a618-2c9f8f766a86&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-08T12%3A11%3A38Z&ske=2025-04-09T12%3A11%3A38Z&sks=b&skv=2024-08-04&sig=qku%2BoB9NSqSTIIgDl52BggL5JCZ6%2B5vWOYXhzpEHhnk%3D"  />
-</div>
 
-###
+
 
 
