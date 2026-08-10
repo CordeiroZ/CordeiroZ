@@ -41,12 +41,3 @@
 
 <p align="left">Sou um desenvolvedor apaixonado por tecnologia e movido por desafios. Atualmente curso Sistemas de Informação e aplico meus conhecimentos em projetos Full Stack, sempre buscando unir teoria, prática e propósito em cada linha de código.<br><br>Desde pequeno, a curiosidade me levou a entender e resolver problemas no computador por conta própria — algo que moldou minha forma de aprender e evoluir. Hoje, sigo com esse mesmo espírito, buscando experiências que me desafiem, me conectem com pessoas incríveis e acelerem meu crescimento profissional e pessoal.<br><br>Atualmente, também atuo de forma independente desenvolvendo landing pages otimizadas para captação de leads, focadas em performance, design estratégico e resultados para empresas.</p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cordeiroz/Cordeiroz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cordeiroz/Cordeiroz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cordeiroz/Cordeiroz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
